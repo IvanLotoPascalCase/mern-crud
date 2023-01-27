@@ -24,7 +24,7 @@ me ayudaron en el desarrollo.
 • ExpressJS - v4.18.1  
 • Axios - v1.2.5  
 • Yup - v0.32.11  
-• react-hot-toast - v2.4.0 
+• react-hot-toast - v2.4.0  
 • Cloudinary-npm API - v1.33.0  
 • dotenv - v16.0.3  
 • express-fileupload - v1.4.0  
